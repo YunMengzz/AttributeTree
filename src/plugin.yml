@@ -1,0 +1,8 @@
+name: AttributeTree
+main: cn.attribute.tang.Main
+version: 1.0.0
+author: kylin
+commands:
+  attropen:
+    description: This is a add attribute command
+softdepend: [VexView, SkillAPI]
